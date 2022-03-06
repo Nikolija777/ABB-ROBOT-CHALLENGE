@@ -8,7 +8,7 @@ In addition, there is a story behind our work. Everything went well and smoothly
 
 # Problem - YuMI robot :mechanical_arm:
 
-mplement an application in which the YuMI robot makes cocktails by default
+Implement an application in which the YuMI robot makes cocktails by default
 recipes. The appearance of the working environment is shown in Figure 1. Near the robot,
 there is a glass in which the robot has to prepare a cocktail, two bottles of drinks that are on
 dozers as well as three bottles of drink that are closed with a stopper and are located on a pedestal next to it. There is a different type of drink in each container. Dozer bottles are filled
